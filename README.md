@@ -1,4 +1,5 @@
 # my-first-repo
 
+## My goal
 
-I LOVE YOU <3
+I want to use GitHub for my engineering projects.
